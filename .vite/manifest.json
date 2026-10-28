@@ -1,4 +1,34 @@
 {
+  "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "_next/static/chunks/app-route-prefetch-policy-B8XxJVEu.js",
+    "name": "app-route-prefetch-policy",
+    "src": "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-BH0ze_VM.js",
+    "name": "layout-segment-context",
+    "src": "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "_next/static/chunks/streamed-icons-DNogeH_Z.js",
+    "name": "streamed-icons",
+    "src": "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
   "_framework-D_rUT4EX.js": {
     "file": "_next/static/chunks/framework-D_rUT4EX.js",
     "name": "framework",
@@ -11,7 +41,7 @@
     "name": "rolldown-runtime"
   },
   "components/portfolio/PortfolioSite.tsx": {
-    "file": "_next/static/chunks/PortfolioSite-LiMZBWfs.js",
+    "file": "_next/static/chunks/PortfolioSite-DT0uEOO3.js",
     "name": "PortfolioSite",
     "src": "components/portfolio/PortfolioSite.tsx",
     "isDynamicEntry": true,
@@ -21,38 +51,8 @@
       "_framework-D_rUT4EX.js"
     ]
   },
-  "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "_next/static/chunks/app-route-prefetch-policy-BZTZXcTs.js",
-    "name": "app-route-prefetch-policy",
-    "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "virtual:vinext-app-browser-entry"
-    ]
-  },
-  "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-C1ej9jKG.js",
-    "name": "layout-segment-context",
-    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "virtual:vinext-app-browser-entry",
-      "_framework-D_rUT4EX.js"
-    ]
-  },
-  "node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "_next/static/chunks/streamed-icons-Bumrcy-j.js",
-    "name": "streamed-icons",
-    "src": "node_modules/vinext/dist/shims/streamed-icons.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_framework-D_rUT4EX.js"
-    ]
-  },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-E2afsiNv.js",
+    "file": "_next/static/chunks/index-DrpqkX0d.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -61,10 +61,10 @@
       "_framework-D_rUT4EX.js"
     ],
     "dynamicImports": [
-      "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
       "virtual:vinext-app-browser-entry",
-      "node_modules/vinext/dist/shims/layout-segment-context.js",
-      "node_modules/vinext/dist/shims/streamed-icons.js",
+      "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "../../../Users/fabianjung/Documents/Codex/2026-09-05/i-x20/work/personal-system/node_modules/vinext/dist/shims/streamed-icons.js",
       "components/portfolio/PortfolioSite.tsx"
     ]
   }
